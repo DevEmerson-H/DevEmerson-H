@@ -14,9 +14,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://github.com/DevEmerson-H">
-    <img src="https://img.shields.io/badge/GitHub-DevEmerson-H-181717?style=for-the-badge&logo=github" />
+    <img src=https://img.shields.io/badge/DevEmerson.H-121013?style=for-the-badge&logo=github&logoColor=white />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/_emeroth">
     <img src="https://img.shields.io/badge/Instagram-@_emeroth-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
