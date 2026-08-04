@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emerson henrique
 
-🚀 **Junior Software Engineer | JavaScript & Java Developer**  
+🚀 **Junior Software Engineer | JavaScript Developer**  
 🇧🇷 Brazil
 
 I build **scalable products**,  and **high-performance web systems**.  
