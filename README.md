@@ -68,6 +68,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🚀 Philosophy
 
+"Programming is more than just writing code. It is about understanding problems, creating solutions, and turning ideas into tools that make people's lives easier. Every challenge is an opportunity to learn, grow, and build something meaningful."
 
 
 ⭐ If you like my work, consider starring a repository  
